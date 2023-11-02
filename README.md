@@ -53,3 +53,4 @@ A aplicação será desenvolvida utilizando as seguintes tecnologias:
 - Back-end: Node.js com Express.js
 - Banco de Dados Relacional: MySQL
 - Banco de Dados NoSQL: MongoDB
+# verceldeploy
